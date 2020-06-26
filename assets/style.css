@@ -1,0 +1,28 @@
+body {
+background-color: #F5F5F5;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+    padding: 10px;
+    background-color: #343A40;
+    color: #FFFFFF;
+}
+
+.lg_row {
+    width: 80%;
+}
+
+.md_row {
+    width: 40%;
+}
+
+.sm_row {
+    width: 20%;
+}
+
+.active {
+    text-decoration: underline;
+}
